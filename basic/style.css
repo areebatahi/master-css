@@ -1,14 +1,13 @@
 /* #ff3368 ; #ecfdff */
 
 /* selector {
-    property: value;
     property: value; } declaration
 } */
 
 /* example */
 
 a {
-    color: #ff3368;
+    color: #ff3368; /*} declaration */
 }
 
 /* class selector in html or css */
@@ -19,7 +18,7 @@ a {
 /* example */
 
 .btn{
-    color: red;
+    color: red; /*} declaration */
 }
 
 /* id selector in html or css */
@@ -30,5 +29,5 @@ a {
 /* example */
 
 #btn{
-    color: green;
+    color: green; /*} declaration */
 }
