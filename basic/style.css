@@ -3,6 +3,7 @@
 /* selector {
     property: value; } declaration
 } */
+declaration: that is commbination of 
 
 /* example */
 
@@ -29,5 +30,5 @@ a {
 /* example */
 
 #btn{
-    color: green; /*} declaration */
+    color: green; 
 }
