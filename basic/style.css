@@ -1,9 +1,10 @@
 /* #ff3368 ; #ecfdff */
 
-/* declaration: that is commbination of property + value */
-/* selector: jis par style dyna hai wo tag,attriute.etc*/
-/* property: jis par style dyna hai wo tag,attriute.etc*/
-/* value: jis par style dyna hai wo tag,attriute.etc*/
+/* 🔹 declaration: that is commbination of property + value */
+/* 🔹 Selector: Jis element par styling apply karni hai. (e.g., p, .class, #id) */
+/* 🔹 Property: CSS ka wo feature jo element ki styling define karta hai. (e.g., color, font-size, margin) */
+/* 🔹 Value: Property ka specific style jo apply hoga. (e.g., red, 16px, 10px) */ 
+
 /* selector {
     property: value; } declaration
 } */
