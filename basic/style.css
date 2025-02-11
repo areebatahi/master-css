@@ -5,20 +5,29 @@
     property: value; } declaration
 } */
 
-
-/* selector {
-    property: value;
-    property: value; } declaration
-} */
- 
+/* example */
 
 a {
     color: #ff3368;
 }
 
+/* class selector in html or css */
+/* .selector {
+    property: value;
+    property: value; } declaration
+} */
+ 
+
 .btn{
     color: red;
 }
+
+/* id selector in html or css */
+/* #selector {
+    property: value;
+    property: value; } declaration
+} */
+ 
 
 #btn{
     color: green;
