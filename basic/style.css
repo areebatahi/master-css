@@ -5,6 +5,8 @@
 /* 🔹 Property: CSS ka wo feature jo element ki styling define karta hai. (e.g., color, font-size, margin) */
 /* 🔹 Value: Property ka specific style jo apply hoga. (e.g., red, 16px, 10px) */ 
 
+
+/* 🔹  selector in html or css */
 /* selector {
     property: value; } declaration
 } */
@@ -15,7 +17,7 @@ a {
     color: #ff3368; /*} declaration */
 }
 
-/* class selector in html or css */
+/* 🔹 class selector in html or css */
 /* .selector {
     property: value; } declaration
 } */
@@ -26,7 +28,7 @@ a {
     color: red; /*} declaration */
 }
 
-/* id selector in html or css */
+/* 🔹 id selector in html or css */
 /* #selector {
     property: value; } declaration
 } */
