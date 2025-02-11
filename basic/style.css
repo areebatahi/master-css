@@ -38,3 +38,14 @@ a {
 #btn{
     color: green; 
 }
+
+/* 🔹 pseudo class css */
+/* selector:hover {
+    property: value; } declaration
+} */
+ 
+/* example */
+
+.btn:hover{
+    color: rgb(235, 137, 137); 
+}
