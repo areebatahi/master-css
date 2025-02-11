@@ -53,5 +53,11 @@ a:hover{
 }
 
 #me{
-    color: ;
+    color: rgb(51, 0, 255);
+    background-color: #ffffff;
+}
+
+#me:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(51, 0, 255);
 }
