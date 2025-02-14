@@ -51,10 +51,15 @@ a {
 } */
  
 /* example */
-
+#selected{
+    color: red;
+}
 #selected:hover{
-    color: rgb(180, 113, 113); 
-    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255); 
+    background-color: rgb(211, 125, 125);
+}
+#selected:link{
+    color: green;
 }
 
 /* in this case id important then selector */
