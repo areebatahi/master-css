@@ -41,19 +41,19 @@ a {
 }
 
 /* 🔹 pseudo class css */
-there are many type of pseudo class css
+/* there are many type of pseudo class css
 🔹 selector:hover 
 🔹 selector:active 
 🔹 selector:link 
-🔹 selector:visited 
+🔹 selector:visited  */
 /* selector:hover {
     property: value; } declaration
 } */
  
 /* example */
 
-a:hover{
-    color: rgb(0, 0, 0); 
+#selected:hover{
+    color: rgb(180, 113, 113); 
     background-color: rgb(255, 0, 0);
 }
 
