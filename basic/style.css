@@ -61,6 +61,10 @@ a {
 #selected:link{
     color: green;
 }
+#selected:active{
+    color: rgb(255, 255, 255);
+    background-color: yellow;
+}
 
 /* in this case id important then selector */
 #me{
