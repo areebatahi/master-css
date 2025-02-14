@@ -54,15 +54,19 @@ a {
 #selected{
     color: red;
 }
+#selected:link{
+    color: rgb(124, 234, 124);
+}
 #selected:hover{
     color: rgb(255, 255, 255); 
     background-color: rgb(211, 125, 125);
 }
-#selected:link{
-    color: green;
-}
 #selected:active{
     color: rgb(255, 255, 255);
+    background-color: yellow;
+}
+#selected:visited{
+    color: rgb(183, 22, 22);
     background-color: yellow;
 }
 
