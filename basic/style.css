@@ -12,11 +12,11 @@
 } */
 
 /* example */
-
+/* 
 a {
     color: #ff0000; /*} declaration */
-    background-color: #000000; 
-}
+    /* background-color: #000000;  */
+/* } */ 
 
 /* 🔹 class selector in html or css */
 /* .selector {
