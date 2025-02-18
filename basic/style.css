@@ -55,7 +55,7 @@ a {
     color: rgb(204, 148, 148);
 } */
 #selected:link{
-    color: rgb(7, 30, 7);
+    color: rgb(88, 194, 88);
 }
 #selected:hover{
     color: rgb(255, 225, 0); 
@@ -65,10 +65,10 @@ a {
     color: rgb(0, 255, 140);
     /* background-color: rgb(180, 180, 14); */
 }
-#selected:visited{
-    color: rgb(8, 0, 247);
+/* #selected:visited{
+    color: rgb(1, 1, 12);
     /* background-color: yellow; */
-}
+} */
 
 /* in this case id important then selector */
 #me{
