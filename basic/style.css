@@ -58,16 +58,16 @@ a {
     color: rgb(7, 30, 7);
 }
 #selected:hover{
-    color: rgb(255, 255, 255); 
-    background-color: rgb(211, 125, 125);
+    color: rgb(255, 225, 0); 
+    /* background-color: rgb(211, 125, 125); */
 }
 #selected:active{
-    color: rgb(255, 255, 255);
-    background-color: rgb(180, 180, 147);
+    color: rgb(0, 255, 140);
+    /* background-color: rgb(180, 180, 14); */
 }
 #selected:visited{
-    color: rgb(183, 22, 22);
-    background-color: yellow;
+    color: rgb(8, 0, 247);
+    /* background-color: yellow; */
 }
 
 /* in this case id important then selector */
