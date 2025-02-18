@@ -65,10 +65,10 @@ a {
     color: rgb(0, 255, 140);
     /* background-color: rgb(180, 180, 14); */
 }
-/* #selected:visited{
+#selected:visited{
     color: rgb(1, 1, 12);
     /* background-color: yellow; */
-} */
+}
 
 /* in this case id important then selector */
 #me{
