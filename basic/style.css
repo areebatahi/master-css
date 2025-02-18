@@ -51,9 +51,9 @@ a {
 } */
  
 /* example */
-#selected{
+/* #selected{
     color: rgb(204, 148, 148);
-}
+} */
 #selected:link{
     color: rgb(7, 30, 7);
 }
