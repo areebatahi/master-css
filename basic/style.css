@@ -52,10 +52,10 @@ a {
  
 /* example */
 #selected{
-    color: red;
+    color: rgb(204, 148, 148);
 }
 #selected:link{
-    color: rgb(124, 234, 124);
+    color: rgb(7, 30, 7);
 }
 #selected:hover{
     color: rgb(255, 255, 255); 
@@ -63,7 +63,7 @@ a {
 }
 #selected:active{
     color: rgb(255, 255, 255);
-    background-color: yellow;
+    background-color: rgb(180, 180, 147);
 }
 #selected:visited{
     color: rgb(183, 22, 22);
