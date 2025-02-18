@@ -83,14 +83,14 @@ a {
 
 
 
-#selected1{
+/* #selected1{
     color: blue;
     background-color: aqua;
-}
+} */
 
 
 #selected1:link{
-    color: rgb(252, 46, 0);
+    color: rgb(129, 31, 9);
 }
 /* #selected1:hover{
     color: rgb(255, 225, 0); 
@@ -100,8 +100,8 @@ a {
     color: rgb(61, 10, 246);
     /* background-color: rgb(180, 180, 14); */
 /* } */ 
-/* #selected1:visited{
-    color: rgb(1, 1, 12);
+/* #selected1:visited{ */
+    /* color: rgb(1, 1, 12); */
     /* background-color: yellow; */
-/* } */ 
+ /* }  */
 
