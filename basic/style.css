@@ -117,10 +117,10 @@ kaam nahi karega. Fir tumhe bas :hover aur :active use karna chahiye.
     
 }
 .clickMe:hover{
-    border-bottom: 6px black solid;
-    border-right: 3px black solid;
+    border-bottom: 6px 6px 6px 6px black solid;
+    /* border-right: 3px black solid;
     /*border-top: 1px black solid;
-    */border-left: 3px black solid;
+    */ /* border-left: 3px black solid; */ 
 }
 .clickMe:active{
     border-bottom: 3px black solid;
