@@ -119,6 +119,7 @@ kaam nahi karega. Fir tumhe bas :hover aur :active use karna chahiye.
     -ms-border-radius: 30px;
     -o-border-radius: 30px;
 }
+
 .clickMe:hover{
     border-bottom: 6px black solid;
     border-right: 3px black solid;
