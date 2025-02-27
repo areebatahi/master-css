@@ -1,6 +1,6 @@
 /* #ff3368 ; #ecfdff */
 
-
+/* -----------------------------  basic  -------------------------------- */
 /* 🔹 declaration: that is combination of property + value */
 /* 🔹 Selector: Jis element par styling apply karni hai. (e.g., p, .class, #id) */
 /* 🔹 Property: CSS ka wo feature jo element ki styling define karta hai. (e.g., color, font-size, margin) */
@@ -41,12 +41,16 @@ a {
     color: green; 
 }
 
-/* 🔹 pseudo class css */
+/*-------------------------------------- 🔹 pseudo class css --------------------------------------*/
 /* there are many type of pseudo class css
 🔹 selector:hover => Jab mouse link ke upar ho
 🔹 selector:active => Jab link click ho raha ho
 🔹 selector:link => Jab link pehle kabhi click na hua ho
-🔹 selector:visited => Jab link pehle visit ho chuka ho */
+🔹 selector:visited => Jab link pehle visit ho chuka ho 
+
+Agar tumhara #selected koi div, button, ya paragraph hai, to :link aur :visited
+kaam nahi karega. Fir tumhe bas :hover aur :active use karna chahiye.
+*/
 /* selector:hover {
     property: value; } declaration
 } */
@@ -104,3 +108,5 @@ a {
     color: rgb(15, 148, 22);
     /* background-color: yellow; */
 /* } */ 
+
+
