@@ -109,4 +109,22 @@ kaam nahi karega. Fir tumhe bas :hover aur :active use karna chahiye.
     /* background-color: yellow; */
 /* } */ 
 
-
+.clickMe{
+    background-color: rgb(216, 216, 31);
+    border-radius: 30px;
+    padding: 8px 20px;
+    font-weight: bold;
+    
+}
+.clickMe:hover{
+    border-bottom: 6px black solid;
+    border-right: 3px black solid;
+    /*border-top: 1px black solid;
+    */border-left: 3px black solid;
+}
+.clickMe:active{
+    border-bottom: 3px black solid;
+    border-left: 1.7px black solid;
+    border-right: 1px black solid;
+    border-top: 1px black solid;
+}
