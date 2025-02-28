@@ -9,3 +9,8 @@ chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://api.thapatechnical.s
 # get css complete source code
 https://github.com/thapatechnical/css_couyrse_by_thapatechnical/tree/master/CSS_stater_file_thapaTechnical
 
+
+
+
+1) visit website to learn css trick
+
