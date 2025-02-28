@@ -13,4 +13,5 @@ https://github.com/thapatechnical/css_couyrse_by_thapatechnical/tree/master/CSS_
 
 
 1) visit website to learn css trick
+2) visit website to learn more cssbattle.dev
 
